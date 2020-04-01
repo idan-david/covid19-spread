@@ -5,6 +5,8 @@ This is a cumulative view. At each point in time we see all previous points.
 
 Each point is a place an infected person has visited.
 
+configuration is taken from [here](https://github.com/MohGovIL/hamagen-react-native/tree/master/src/config)
+
 # Requirements
 ```pip3 install -r requirements.text```
 
